@@ -1,4 +1,22 @@
 # StockScanner
+
+# StockScanner
+
+Live Stock Scanner with AI Analysis.
+
+## Backend (Python)
+
+1. إنشاء بيئة:
+```bash
+python -m venv venv
+
+
+
+
+
+
+
+
 StockScanner/
 │
 ├─ client/                  # واجهة المستخدم (React)
