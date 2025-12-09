@@ -1,0 +1,11 @@
+fastapi>=0.101.0
+uvicorn[standard]>=0.23.1
+requests>=2.31.0
+pydantic>=2.6.0
+asyncio
+websockets
+psycopg2-binary>=2.9.9
+openai>=1.1.0
+numpy>=1.26.0
+pandas>=2.1.1
+ta>=0.12.0
